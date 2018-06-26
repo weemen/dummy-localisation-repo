@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: the-dummy-project\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-09 14:32+0200\n"
+"PO-Revision-Date: 2018-06-26 14:03\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: the-dummy-project\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/dummy.pot\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: LeonWeemen <leon@bynder.com>\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+
+msgid "One"
+msgstr ""
+
+msgid "Two"
+msgstr ""
+
+msgid "Three"
+msgstr ""
+
