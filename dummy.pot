@@ -25,3 +25,6 @@ msgstr ""
 
 msgid "Three"
 msgstr ""
+
+msgid "Four"
+msgstr ""
