@@ -6,4 +6,5 @@ files:
       - /nl
       - /fr
       - /sv
+      - /en
     translation: /%two_letters_code%/%language%.po
