@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: the-dummy-project\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-09 14:32+0200\n"
-"PO-Revision-Date: 2018-06-28 11:11\n"
+"PO-Revision-Date: 2018-06-29 12:59\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: the-dummy-project\n"
@@ -14,12 +14,19 @@ msgstr ""
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
 
+msgctxt "this is number one"
 msgid "One"
 msgstr "En"
 
+msgctxt "this is number two"
 msgid "Two"
 msgstr "Två"
 
+msgctxt "this is number three"
 msgid "Three"
 msgstr "Tre"
+
+msgctxt "this is number four"
+msgid "Four"
+msgstr ""
 
